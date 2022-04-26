@@ -1,5 +1,5 @@
 #variável para armazenar as notas dos alunos ímpares e pares
-nota_total_impar = 0.0
+nota_total_impar = 0.0 #a
 nota_total_par = 0.0
 print("Esse programa serve para anotar as notas dos alunos!")
 #loop para repetir por 25 vezes (1,3,5,7...49) a solicitação da nota ímpar
